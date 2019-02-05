@@ -2,6 +2,7 @@ Useful resources
 ================
 * https://google.github.io/styleguide/cppguide.html
 * http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+* many others ...
 
 
 

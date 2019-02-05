@@ -48,4 +48,10 @@
     "SpaceBeforeAssignmentOperators": true,
     "ContinuationIndentWidth": 8,
     "SortIncludes": false,
+    "IndentPPDirectives": "AfterHash",
+    "DerivePointerAlignment": false,
+    "PointerAlignment": "Right",
+    "FixNamespaceComments": true,
+    "IndentWrappedFunctionNames": true,
+    "Standard": "Cpp03",
 }
